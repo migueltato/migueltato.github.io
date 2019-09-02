@@ -1,6 +1,6 @@
 # Theme modified from Flexible-Jekyll
 
-![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
+![Demo](https://artemsheludko.github.io/flexible-jekyll/)
 
 ## License
 
