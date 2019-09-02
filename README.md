@@ -1,6 +1,6 @@
 # Theme modified from Flexible-Jekyll
 
-![Demo](https://artemsheludko.github.io/flexible-jekyll/)
+[Demo](https://artemsheludko.github.io/flexible-jekyll/)
 
 ## License
 
