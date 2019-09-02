@@ -19,6 +19,6 @@ Aunque su práctica es muy sencilla, viene bien tener en cuenta algunos aspectos
 3. **Es fundamental no juzgarte a la hora de escribir** lo que te está pasado, ya que en el momento que nos juzgamos, nos ponemos barreras para poder seguir con la práctica. 
 4. Se puede **escribir de forma libre** según lo que nos venga a la mente (escritura libre), o bien aplicando el **uso de alguna plantilla para ver las posibles causa-efecto de lo que nos pasa**, como se muestra en la siguiente tabla: 
 
-![Image-1]({{site.baseurl}}/assets/img/diario_emocional.jpg)
+![Image-1]({{site.baseurl}}/assets/img/tabla_emociones.png)
 
 Espero que la aplicación de esta técnica te resulte beneficiosa y práctica!
