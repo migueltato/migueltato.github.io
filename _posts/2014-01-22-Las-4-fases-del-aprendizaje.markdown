@@ -7,7 +7,6 @@ img: 4_phases_learning.jpg # Add image post (optional)
 tags: [Learning, Kaizen] # add tag
 ---
 
-# Las 4 fases del aprendizaje
 Hoy en día montar en bici, conducir un coche o nadar son actividades que generalmente no pensamos demasiado en cómo se llevan a cabo, ya que las tenemos totalmente interiorizadas. Esto a su vez se traduce en que no suponen gran esfuerzo, en parte porque en su momento ya pasamos por un proceso de aprendizaje que hizo que a día de hoy seamos capaces de demostrar dicha habilidad de manera inconsciente.
 
 Muchas de estas actividades parecen **sencillas una vez las conseguimos dominar, pero para llegar a ese punto es necesario pasar por una serie de fases o etapas de aprendizaje**, de las cuales destacaría las siguientes:
