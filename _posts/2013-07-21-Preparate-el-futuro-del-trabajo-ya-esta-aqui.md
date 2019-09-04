@@ -6,6 +6,7 @@ description: # Add post description (optional)
 img: preparate-el-futuro-del-trabajo-ya-esta-aqui.jpg # Add image post (optional)
 tags: # add tag
 ---
+
 No hace mucho que acabé de leer un libro bastante interesante que explica, para los próximos años, lo que le va a pasar al futuro del trabajo. El libro se titula como este post “Prepárate: el futuro del trabajo ya está aquí” y lo escribe Lynda Gratton, profesora de la London Business School. Según su autora, el libro muestra diversas predicciones que son el resultado de un proyecto de investigación realizado a nivel mundial con 21 multinacionales y más de 200 ejecutivos.
 
 Lynda plantea diferentes escenarios unos más optimistas y otros no tanto sobre lo que nos depara el futuro, y además lo hace planteando diferentes situaciones o ejemplos de trabajos que se desarrollarán unos en el 2025 y otros en el 2050.
