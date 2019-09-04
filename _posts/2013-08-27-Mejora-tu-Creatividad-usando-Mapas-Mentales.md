@@ -2,7 +2,7 @@
 layout: post
 title: "Mejora tu Creatividad usando Mapas Mentales"
 date: 2013-08-27 13:32:20 +0300
-img: creatividad_mapas_mentales.jpg # Add image post (optional)
+img: creatividad_mapas_mentales.png # Add image post (optional)
 description: # Add post description (optional)
 tags: # add tag
 ---

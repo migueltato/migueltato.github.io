@@ -2,7 +2,7 @@
 layout: post
 title: "El circo de las mariposas"
 date: 2013-10-14 13:32:20 +0300
-img: circo_de_la_mariposa.jpg # Add image post (optional)
+img: circo_de_la_mariposa.png # Add image post (optional)
 description: # Add post description (optional)
 tags: # add tag
 ---
