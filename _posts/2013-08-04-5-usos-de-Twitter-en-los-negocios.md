@@ -1,4 +1,12 @@
-# 5 usos de Twitter en los negocios
+---
+layout: post
+title: "5 Usos de twitter en los negocios"
+date: 2013-08-04 13:32:20 +0300
+img: 5_usos_twitter_business.jpg # Add image post (optional)
+description: # Add post description (optional)
+tags: # add tag
+---
+
 En este post me gustaría escribir acerca del fenómeno social [Twitter][1] que durante los últimos años ha conseguido afianzarse como una de las redes sociales de mayor influencia y crecimiento en el mundo. De hecho Twitter ya es, junto con [Facebook][2] uno de los fenómenos más mediáticos, y prueba de ello es que la gran mayoría de famosos tales como Barack Obama, Lady Gaga o Justin Bieber están en dicha red. Es más, gracias a twitter son cada vez más famosos, conocidos y populares.
 
 Twitter surgió inicialmente como un servicio de [microblogging][3] aunque su uso se ha ido extendiendo a más ámbitos y en especial está siendo una herramienta muy útil para los negocios, sin olvidar que es totalmente gratuita. Si eres un profesional que está buscando incrementar tu presencia online, el estar al día en tu sector, aumentar los contactos profesionales o la mejora de tu marca personal, encontrarás que twitter es un buen aliado que te puede ayudar a conseguirlo. 
