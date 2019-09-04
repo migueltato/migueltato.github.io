@@ -765,7 +765,7 @@ template {
 
 *, *::after, *::before {
   -webkit-box-sizing: border-box;
-
+          box-sizing: border-box;
 }
 
 html {
@@ -977,7 +977,7 @@ table tfoot td {
 }
 
 .about .author-name::after {
-  content: "";
+  
   position: absolute;
   left: 50%;
   -webkit-transform: translateX(-50%);
