@@ -4,7 +4,7 @@ title: Tres causas por las que posponemos tareas y posibles soluciones
 date: 2017-07-05 00:00:00 +0300
 description: # Add post description (optional)
 img: stop_procrastinating.jpg # Add image post (optional)
-tags: [Skills, Kaizen] # add tag
+tags: # add tag
 ---
 
 La postergación (o procrastination en inglés) es el hábito de dejar las cosas para otro momento en lugar de hacerlas ahora. Una práctica muy habitual y que se caracteriza porque empezamos una tarea y al poco rato la dejamos por otra actividad mucho más placentera que la anterior. El problema de esta práctica (o más bien de este hábito), es que al final no avanzamos en nuestros objetivos o proyectos, ya que **continuamente estamos posponiendo tareas, además de la insatisfacción o frustración que nos produce el no conseguir lo que nos proponemos**.

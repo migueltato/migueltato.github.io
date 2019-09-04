@@ -4,7 +4,7 @@ title: Diario Emocional
 date: 2017-07-18 00:00:00 +0300
 description: # Add post description (optional)
 img: diario_emocional.jpg # Add image post (optional)
-tags: [Psychology, Kaizen] # add tag
+tags: # add tag
 ---
 
 El diario emocional es una herramienta de observación que nos ayuda a mejorar nuestro bienestar diario.
