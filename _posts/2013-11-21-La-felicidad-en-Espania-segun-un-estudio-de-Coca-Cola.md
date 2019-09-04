@@ -1,4 +1,11 @@
-# La felicidad en España según un estudio de Coca-Cola
+---
+layout: post
+title: "La felicidad en España según un estudio de Coca-Cola"
+date: 2013-11-21 13:32:20 +0300
+img: felicidad_cocacola.jpg # Add image post (optional)
+description: # Add post description (optional)
+tags: # add tag
+---
 
 Más de uno habréis visto los anuncios de Coca-Cola sobre la felicidad. Pues bien, ya hace un tiempo Coca-cola creó un instituto cuya misión es la investigación y difusión de conocimientos sobre la felicidad, además de contribuir a mejorar la calidad de vida de los españoles (según publican en su página web) . Me pareció interesante leer su [primer informe][1] publicado sobre la Felicidad en 2008, un estudio basado en 3.000 entrevistas personales, que analiza las razones y condicionantes sobre la felicidad de los españoles. Dicha iniciativa ha contado con la colaboración de expertos como Eduard Punset, escritor y divulgador científico y Carmelo Vázquez, catedrático de Psicología de la Universidad Complutense de Madrid.
 Algunas de las conclusiones del estudio son las siguientes:

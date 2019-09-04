@@ -1,5 +1,12 @@
-## Cinco características de un emprendedor actual
-# Cinco características de un emprendedor actual
+---
+layout: post
+title: "Cinco características de un emprendedor actual"
+date: 2013-09-24 13:32:20 +0300
+img: cinco_caracteristicas_emprendedor_actual.jpg # Add image post (optional)
+description: # Add post description (optional)
+tags: # add tag
+---
+
 Cada vez más empresas valoran el aspecto emprendedor de los profesionales, siendo incluso **una habilidad o capacidad que buscan en los candidatos que optan a determinados puestos de trabajo**. Y es que el emprendimiento tiene beneficios para las empresas como por ejemplo el poder aumentar la innovación y la competitividad.
 
 Si estás interesado en aumentar tus habilidades emprendedoras bien sea dentro (intrapreneur) o fuera de la empresa, deberás **conocer y desarrollar algunas de las cualidades o capacidades fundamentales que distinguen a los emprendedores de éxito**.

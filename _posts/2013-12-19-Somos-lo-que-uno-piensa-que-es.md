@@ -1,4 +1,12 @@
-# Somos lo que uno piensa que es
+---
+layout: post
+title: "Somos lo que uno piensa que es"
+date: 2013-12-19 13:32:20 +0300
+img: somos_lo_que_uno_piensa_que_es.jpg # Add image post (optional)
+description: # Add post description (optional)
+tags: # add tag
+--- 
+
 > “Lo que me define es lo que crees, lo que pienso es lo que soy, lo que ves en mí lo albergas en tu interior y viceversa, existe mi mundo porque así lo hemos creado, por lo tanto creo lo que soy” -HK-
 
 Muchas veces me encuentro con personas que piensan que sus vidas no dependen de ellos, sino del entorno y que tienen poco o ningún control sobre su destino. No voy a negar que el exterior no tenga influencia sobre nuestra vida, pero **siempre hay grados de libertad de elección que debemos aprovechar para nuestro beneficio, es decir que si somos capaces de gestionar nuestros propios pensamientos y sentimientos, seremos capaces de no depender tanto de las circunstancias, y de los demás**.

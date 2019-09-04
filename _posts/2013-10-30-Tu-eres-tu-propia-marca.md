@@ -1,4 +1,12 @@
-# Tú eres tu propia marca
+---
+layout: post
+title: "Tú eres tu propia marca"
+date: 2013-10-30 13:32:20 +0300
+img: marca_personal.jpg # Add image post (optional)
+description: # Add post description (optional)
+tags: # add tag
+---
+
 Hace ya unos años que el mundo laboral está cambiando, y prueba de ello se refleja en que los contratos "fijos" o indefinidos son cada vez menores, al tiempo que la temporalidad va en aumento. Ya no solemos trabajar en la misma empresa hasta que nos jubilamos como antiguamente. De hecho, el propio Peter Drucker ya lo predecía por allá por 1997 cuando afirmaba en el artículo [The brand called You][1] que en un futuro trabajaríamos en diferentes proyectos y clientes sin un "trabajo fijo" y que en este escenario deberíamos empezar a pensar en posicionarnos como marcas propias.
 
 Durante muchos años los profesionales han vivido bajo el paraguas y el amparo de las empresas, las cuales intercambiaban seguridad laboral por lealtad, pero esto comenzó a desaparecer ya hace bastantes años. **En el nuevo entorno laboral el intercambio se encuentra en que las empresas ofrecen proyectos y oportunidades a cambio del talento de los profesionales**. 

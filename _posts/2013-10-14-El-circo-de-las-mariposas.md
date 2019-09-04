@@ -1,4 +1,11 @@
-# El circo de las mariposas
+---
+layout: post
+title: "El circo de las mariposas"
+date: 2013-10-14 13:32:20 +0300
+img: circo_de_la_mariposa.jpg # Add image post (optional)
+description: # Add post description (optional)
+tags: # add tag
+---
 
  <iframe width="854" height="480" src="https://www.youtube.com/embed/od2lg1ZC20s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

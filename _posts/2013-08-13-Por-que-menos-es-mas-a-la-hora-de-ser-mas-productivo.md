@@ -1,4 +1,12 @@
-# Por qué menos es más a la hora de ser más productivo
+---
+layout: post
+title: "Por qué menos es más a la hora de ser más productivo"
+date: 2013-08-13 13:32:20 +0300
+img: less_is_more.jpg # Add image post (optional)
+description: # Add post description (optional)
+tags: # add tag
+---
+
 Una de las necesidades que tenemos hoy en día es hacer más con menos, sobre todo empleando cuanto menos tiempo mejor. Parece como si la multitarea de los ordenadores se estuviese trasladando poco a poco a los seres humanos y que el aumento de la capacidad de procesamiento de las máquinas nos obligase también a ser más productivos. Ya sabes, estamos en la era de la sociedad de la alta velocidad en sus diferentes ámbitos, al menos eso opina Harmut Rosa en su libro [High Speed Society][1].
 
 Quizás ese afán por hacer más con menos nos lleve a saltar de unas cosas a otras, como haciéndonos creer que hemos estado trabajando en muchas cosas distintas. Pero este no es más que uno de los trucos que nuestra mente utiliza para que no nos sintamos decepcionados por el poco avance que estamos consiguiendo en nuestros objetivos más importantes. Lo normal es que saltemos de unas actividades a otras, sin ningún orden ni criterio y muchas veces nos encontraremos que al final del día hemos estamos empleando nuestro tiempo en tareas que ni son urgentes ni son importantes para nosotros.

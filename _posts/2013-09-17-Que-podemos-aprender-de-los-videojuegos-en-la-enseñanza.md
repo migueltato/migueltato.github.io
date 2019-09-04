@@ -1,4 +1,12 @@
-# Qué podemos aprender de los videojuegos en la enseñanza
+---
+layout: post
+title: "Qué podemos aprender de los videojuegos en la enseñanza"
+date: 2013-09-17 13:32:20 +0300
+img: videojuegos_ensenanza.jpg # Add image post (optional)
+description: # Add post description (optional)
+tags: # add tag
+---
+
 Uno de los resultados con el que nos encontramos en la enseñanza actual es que hay demasiados estudiantes que tiran la toalla antes de llegar a la universidad. De hecho en 2012 tuvimos en España una tasa de abandono escolar del 24,9, es decir uno de cada cuatro alumnos no sigue los estudios. Es una tasa que está muy por encima de nuestros vecinos europeos, y si nos comparamos con los finlandeses se nos pone la cara roja al compararnos con su tasa del 9%.
 
 Evidentemente no hay una sola causa que esté detrás de esta tasa tan elevada: medios e inversión insuficientes o poco adecuados, poca motivación de los alumnos por aprender, políticas educativas que cambian continuamente y muy cortoplacistas, enseñanza demasiado teórica, bajo prestigio de la figura del profesor, el cual además no se recicla lo suficiente, etc.

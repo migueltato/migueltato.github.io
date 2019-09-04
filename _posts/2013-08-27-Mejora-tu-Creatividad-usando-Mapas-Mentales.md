@@ -1,4 +1,12 @@
-# Mejora tu Creatividad usando Mapas Mentales
+---
+layout: post
+title: "Mejora tu Creatividad usando Mapas Mentales"
+date: 2013-08-27 13:32:20 +0300
+img: creatividad_mapas_mentales.jpg # Add image post (optional)
+description: # Add post description (optional)
+tags: # add tag
+---
+
 Los mapas mentales son una técnica de creatividad que desde hace años se viene utilizando para poder analizar y tomar decisiones, solucionar problemas y generar nuevas ideas, entre otros, teniendo muchas aplicaciones prácticas tanto para los negocios, la gestión de proyectos, la ingeniería o la educación. Los mapas mentales no son de ahora, sino que han sido utilizados desde hace ya varios siglos, aunque su reciente popularidad ha sido gracias al británico [Tony Buzan][1], el cual se ha convertido en todo un referente en la materia.
 
 Si lo que buscas es encontrar la mejor solución a un problema determinado, estás de enhorabuena, ya que los mapas mentales te van a permitir ver el problema desde otra perspectiva, o lo que es comúnmente conocido como [pensamiento lateral][2]. Y es que en el mapa dibujas ideas que se expanden y organizan unas con otras, siendo de esta forma más fácil entender mejor la cuestión que estás analizando o tratando de resolver.
