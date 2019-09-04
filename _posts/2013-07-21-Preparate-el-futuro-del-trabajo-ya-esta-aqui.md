@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Prepárate: el futuro del trabajo ya está aquí"
-date: 2017-07-18 00:00:00 +0300
+date: 2013-07-21 00:00:00 +0300
 description: # Add post description (optional)
 img: preparate-el-futuro-del-trabajo-ya-esta-aqui.jpg # Add image post (optional)
 tags: # add tag
